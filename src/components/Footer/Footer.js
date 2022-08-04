@@ -11,7 +11,7 @@ const Footer = () => {
           href="https://www.youtube.com/roadsidecoder"
           style={{ cursor: "pointer" }}
         >
-          Roadside Coder
+           Code_with_Mohini
         </a>
       </div>
     );
